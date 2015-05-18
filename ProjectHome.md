@@ -1,0 +1,1 @@
+spring + spring mvc + mybatis + apache shiro + ehcache + quartz
